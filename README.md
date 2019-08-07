@@ -1,2 +1,2 @@
-# narae.github.io
+# naraewool.github.io
 Hugo website
