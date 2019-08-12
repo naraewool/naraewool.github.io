@@ -34,7 +34,7 @@ Git에 대한 설명, 다운로드, 가이드는 아래 사이트에 자세히 �
 
 + 동영상 강의까지
 
-{% embed url="https://git-scm.com/video/what-is-git" %}
+[https://git-scm.com/video/what-is-git]
 
 
 
